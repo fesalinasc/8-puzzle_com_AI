@@ -142,7 +142,6 @@ Quando o puzzle é resolvido, o programa exibe:
 * Mensagem de sucesso 🎉
 
 ---
----
 ## 🇺🇸 (English Version)
 
 
