@@ -146,5 +146,5 @@ Quando o puzzle é resolvido, o programa exibe:
 ## 👤 Autor
 
 **Felipe Salinas Caodaglio**
----
+
 
