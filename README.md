@@ -148,7 +148,7 @@ Quando o puzzle é resolvido, o programa exibe:
 ➡️ **([English Version](README.en.md))**
 
 ---
-## 👤 Autor
+## 👨‍💻 Autor
 
 **Felipe Salinas Caodaglio**
 
