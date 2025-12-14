@@ -150,6 +150,6 @@ When the puzzle is solved, the program displays:
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
 **Felipe Salinas Caodaglio**
