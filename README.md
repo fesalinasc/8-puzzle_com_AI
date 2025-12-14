@@ -142,7 +142,13 @@ Quando o puzzle é resolvido, o programa exibe:
 * Mensagem de sucesso 🎉
 
 ---
+---
+## 🇺🇸 (English Version)
 
+
+➡️ **([English Version](README.en.md))**
+
+---
 ## 👤 Autor
 
 **Felipe Salinas Caodaglio**
